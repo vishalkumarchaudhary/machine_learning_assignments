@@ -1,0 +1,20 @@
+please run this file on jupyter-notebook
+
+
+***************************** one_vs_one.py******************************************
+one_vs_one needs matplotlib for plotting the missclassified images
+
+the labels have been saved into a file name p_label_file.csv 
+and f1 is been printed at the end in terminal with the precission
+
+*************************************************************************************
+
+
+***************************** one_vs_rest.py******************************************
+one_vs_rest.py needs matplotlib for plotting the missclassified images
+
+the labels have been saved into a file name p_label_file.csv 
+and f1 is been printed at the end in terminal with the precission
+
+*************************************************************************************
+
